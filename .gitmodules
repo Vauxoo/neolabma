@@ -1,0 +1,3 @@
+[submodule "neolabma"]
+	path = neolabma
+	url = git@git.vauxoo.com:vauxoo/neolabma.git
